@@ -1,0 +1,6 @@
+{
+  "name": "Examen de Admisión LEX - International House",
+  "description": "Plataforma de aplicación de examen de admisión para la Licenciatura en Enseñanza de Lenguas Extranjeras con registro único, evaluación por instrumentos, reportes automáticos y sincronización con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
